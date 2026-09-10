@@ -1,5 +1,7 @@
 # falsec — a native x86-64 FALSE compiler for Windows
 
+**Fuchsia's note:** This exists because I wanted to mess with FALSE on Windows with inline assembly support (none of the existing interpreters seem to have this feature) without having to write it myself.
+
 A compiler for Wouter van Oortmerssen's **FALSE** language
 (<https://strlen.com/files/lang/false/false.txt>) that compiles
 straight to a 64-bit Windows executable. There is no assembler,
