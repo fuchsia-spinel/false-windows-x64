@@ -1,4 +1,4 @@
-Let me also fix `--map` to show every imported function dynamically (not just the hardcoded kernel32 five), then do the full checklist audit against the second list.Now let's do a careful, systematic audit of every command against the checklist.
+Let me also fix `--map` to show every imported function dynamically (not just the hardcoded kernel32 five), then do the full checklist audit against the second list. Now let's do a careful, systematic audit of every command against the checklist.
 
 ## 1. Inline assembly calling MessageBoxW
 
