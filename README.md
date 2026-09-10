@@ -6,7 +6,7 @@
 
 This exists because I wanted to mess with FALSE on Windows with inline assembly support (none of the existing interpreters seem to have this feature) without having to write it myself.
 
-Despite being x64 compatible, it still uses 16-bit literals for the inline assembly, so you have to build instructions from multiple commands. Because assembly programming is more complicated than it used to be, there are some quirks to this. You can find some of them in [ClaudeNotes.md](ClaudeNotes.md). An example of using a Windows API function can be found in [messagebox.f](examples/messagebox.f).
+Despite being x64 compatible, it still uses 16-bit literals for the inline assembly, so you have to build instructions from multiple commands. Because assembly programming is more complicated than it used to be, there are some quirks to this. You can find some of them in [ClaudeNotes.md](ClaudeNotes.md). An example of using a Windows API function (MessageBoxW) can be found in [messagebox.f](examples/messagebox.f).
 
 ---
 
