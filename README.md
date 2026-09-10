@@ -4,7 +4,7 @@
 
 **Fuchsia's note:**
 
-This exists because I wanted to mess with FALSE on Windows with inline assembly support (none of the existing interpreters seem to have this feature) without having to write it myself. It's in Python because I figured Claude would be able to write it in Python fairly quickly and accurately, especially compared to a lot of other languages.
+This exists because I wanted to mess with FALSE on Windows with inline assembly support (none of the existing interpreters seem to have this feature) without having to write the compiler myself. It's in Python because I figured Claude would be able to write it in Python fairly quickly and accurately, especially compared to a lot of other languages.
 
 ---
 
